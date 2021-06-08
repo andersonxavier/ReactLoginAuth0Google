@@ -1,0 +1,4 @@
+module.exports = {
+  clientId: "4ChXM78a31mochxwKKfcqmz3mtbzZqQP",
+  domain: "andersonxavier.us.auth0.com"
+};
